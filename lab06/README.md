@@ -21,12 +21,12 @@
 
 ## Perguntas de pesquisa/análises
 
-> Pergunta 1- Padrãos melódicos específicos fazem as musicas serem mais famosas?
-> Pergunta 2- Quais são os padrões mais comuns em musicas famosas?
-> Pergunta 3- Quais escalas musicais são mais comuns nas musicas Brasileiras?
-> Pergunta 4- Quais são as características melódicas de músicas famosas e não famosas?
-> Pergunta 5- Os vocalistas mais consagrados são de qual escala vocal?
-> Pergunta 6- Existem características fazem um menos "Apreciável"?
+* Pergunta 1- Padrãos melódicos específicos fazem as musicas serem mais famosas?
+* Pergunta 2- Quais são os padrões mais comuns em musicas famosas?
+* Pergunta 3- Quais escalas musicais são mais comuns nas musicas Brasileiras?
+* Pergunta 4- Quais são as características melódicas de músicas famosas e não famosas?
+* Pergunta 5- Os vocalistas mais consagrados são de qual escala vocal?
+* Pergunta 6- Existem características fazem um menos "Apreciável"?
 
 ## Trabalhos relacionados
 
