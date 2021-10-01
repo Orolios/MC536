@@ -14,9 +14,13 @@
 ## Resumo
 
 > O artigo em questão aborda a criação de 3 dataSets acerca das características das musicas populares brasileiras entre 2014 e 2019. A prrincípio o artigo contextualiza as mídias musicais, bem como sua inspirações ao realizar a técnica de MIR (Music Information Retrieval). A partir disso, os bancos são definidos da seguinte forma:
+
 *dataSet 1- Aqui, com o auxílio da empresa Connectmix e de dados coletados de redes sociais, cria-se então um dataSet com 3215 características diferentes das musicas que mais fizeram sucesso no período citado.
+
 *dataSet 2- Dados, as musicas presentes no primeiro dataSet, aqui existirá gráficos de expectrograma tomados a partir de um trecho médio equivalente as "Partes Características" de cada música equivalente a 90 segundos.
+
 *dataSet 3- Diante do segundo dataSet, nesse dataSet encontra-se os dados acerca das melodias mais frequentes dessas músicas, bem como dados sobre padrões de intervalos de tempo da música. Ou seja, aqui existe a análise semântica das músicas do segundo dataSet.
+
 >Diante desses dataSets, o artigo faz considerações sobre a criação deles e sobre como eles podem ser importantes para possíveis pesquisas e análises acerca do tema.
 
 ## Perguntas de pesquisa/análises
